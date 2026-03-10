@@ -7,9 +7,7 @@
 
 ## 👨‍💻 About Me
 I build production-ready web & mobile apps that solve real problems. I enjoy clean architecture, fast UIs and delightful developer experiences.  
-I’m currently working on **Quorum** — a real time application that shares presentations.
 
-- 🔭 I’m currently building: **Quorum** — short descriptor  
 - 🌱 I’m learning: **Redis**, **Kubernetes** 
 - 💬 Ask me about: React, Springboot , Flutter, system design  
 
@@ -17,9 +15,9 @@ I’m currently working on **Quorum** — a real time application that shares pr
 
 ## 🧰 Tech & Tools
 
-**Languages:** Dart, Java, Python, C 
+**Languages:** Dart, Java, C 
 **Frontend:** React, Tailwind CSS, Flutter  
-**Backend:** Spring Boot, PostgreSQL  
+**Backend:** Spring Boot, PostgreSQL, Docker
 **Others:** GitHub Actions, PostgreSQL, Redis, Firebase
 **Tools / Services:** VS Code, Figma, Postman, Git/GitHub, Vercel
 
