@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Rinci Atrey** — *App Developer*
+# 👋 Hi, I’m **Rinci Atrey** — *Software Developer*
 
 [![Email](https://img.shields.io/badge/email-rinciatrey%40gmail.com-blue?style=flat&logo=gmail)](mailto:rinciatrey@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rinciatrey-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/rinci-atrey-dev018)
